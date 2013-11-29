@@ -6,6 +6,12 @@ These are sample code files to accompany the book “Interactive Data Visualizat
 - [O’Reilly book page](http://shop.oreilly.com/product/0636920026938.do)
 - [Free chapter previews](http://ofps.oreilly.com/titles/9781449339739/)
 
+### Running
+
+To run examples, first install nodejs (http://www.nodejs.org/), then:
+1. npm install
+2. node server.js
+
 ### License
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
