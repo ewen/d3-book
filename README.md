@@ -9,6 +9,7 @@ These are sample code files to accompany the book “Interactive Data Visualizat
 ### Running
 
 To run examples, first install nodejs (http://www.nodejs.org/), then:
+
 1. npm install
 2. node server.js
 
